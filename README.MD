@@ -1,16 +1,22 @@
-## This bot has been END of updates in NEW FEATURES!
+Copyright (c) 2021 
 
-## Only PROVIDE BUGS and SECURITY UPDATES **ONLY**!!
+ Permission is hereby granted, free of charge, to any person obtaining a copyof this software and associated documentation files (Royal Bot), to dealin the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. 
 
-<p align="center">
+ Developer By 
 
-            <h1>Royal Bot Discord Bot</h1> </center>
-
-
+ JohnDavid✖‿✖#0009
 
 
 
-<img alt="Discord" src="https://img.shields.io/discord/838777671974387732?label=Discord">
+
+
+
+
+
+
+
+
+
 <a href="https://top.gg/bot/787260574551375903">
 
   <img src="https://top.gg/api/widget/787260574551375903.svg" alt="Royal Bot" />
