@@ -10,7 +10,7 @@
 
 
 
-<img alt="Discord" src="https://img.shields.io/discord/787260574551375903?label=Discord">
+<img alt="Discord" src="https://img.shields.io/discord/838777671974387732?label=Discord">
 <a href="https://top.gg/bot/787260574551375903">
 
   <img src="https://top.gg/api/widget/787260574551375903.svg" alt="Royal Bot" />
