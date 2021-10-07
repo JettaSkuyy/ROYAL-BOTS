@@ -16,10 +16,6 @@ const ffmpeg = require('ffmpeg-static')
 client.commands = new Collection();
 client.queue = new Map();
 client.vote = new Map();
-let xp = require('./database/xp.json');
-let balance = require('./database/balance.json');
-const timeoutxp = new Set();
-const timeout = new Set();
 client.aliases = new Collection();
 client.util = require("./utila");
 client.categories = fs.readdirSync("./commands/");
@@ -83,32 +79,6 @@ client.on('message', async message => {
     let command = client.commands.get(cmd)
     if (!command) command = client.commands.get(client.aliases.get(cmd));
     if (command) command.run(client, message, args);
-      //leveling starts here -----
-
-    let xpAdd = Math.floor(Math.random() * 1) + 1; 
-    if (timeoutxp.has(message.author.id)) return;
-    if(!xp[message.author.id]){
-    xp[message.author.id] = {
-      xp: 0,
-      level: 1
-    };
-  }
-
-  let curxp = xp[message.author.id].xp;
-  let curlvl = xp[message.author.id].level;
-  let nxtLvl = xp[message.author.id].level * 500;
-  xp[message.author.id].xp =  Number(curxp + xpAdd);
-  if(nxtLvl <= xp[message.author.id].xp){
-    xp[message.author.id].level = Number(curlvl + 1);
-    
-     message.channel.send(`\🆙 | ${message.author} You've leveled up to **\`${curlvl + 1}\`**`).then(m => m.delete(7000));
-  }
-  
-  fs.writeFile("./database/xp.json", JSON.stringify(xp, null, 2), (err) => {
-    if (err) console.log(err)
-  });
-  timeoutxp.add(message.author.id);
-  setTimeout(() => timeoutxp.delete(message.author.id), 20000);
    });
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////
