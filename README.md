@@ -18,7 +18,7 @@ https://discord.gg/8hZkZAbpnn
 - [X] Chat-management
 ### Commands List 💫 
 
-Royal Bot has a lot of features, with **8 main categories**:
+Royal Bot has a lot of features, with **9 main categories**:
 
 *   🎵 **Music**: `play`, `skip`, `queue`, `np`, and more! 
 *   👩‍💼 **Information**: `info`, `help`, `invite` and more! 
