@@ -18,14 +18,14 @@ https://discord.gg/8hZkZAbpnn
 - [X] Chat-management
 ### Commands List 💫 
 
-Karma has a lot of features, with **8 main categories**:
+Royal Bot has a lot of features, with **8 main categories**:
 
-*   🎵 **Music**: `play`, `skip`, `queue`, `np`, and **10** more! 
-*   👩‍💼 **Information**: `info`, `help`, `invite` and **2** more! 
-*   🎭 **Roleplay**: `anime`, `hug`, `karma`, `neko` and **11** more! 
-*   🔘 **Buttons** : `snake`,  and **1** more!
-*   🖨️ **Image**: `fire`, `respect`, `scary`, `triggered` and **5** more! 
-*   ✉️ **Other**: `profile`, `addemoji`, `snipe`, `wiki` and **3** more!
+*   🎵 **Music**: `play`, `skip`, `queue`, `np`, and more! 
+*   👩‍💼 **Information**: `info`, `help`, `invite` and more! 
+*   🎭 **Roleplay**: `anime`, `hug`, `karma`, `neko` and more! 
+*   🔘 **Buttons** : `snake`,  and more!
+*   🖨️ **Image**: `fire`, `respect`, `scary`, `triggered` and more! 
+*   ✉️ **Other**: `profile`, `addemoji`, `snipe`, `wiki` and more!
 *   👑 **Owner**: `eval`, `reload`
 ## DEVELOPER
 JohnDavid, Berry, lollipop
