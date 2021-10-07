@@ -6,7 +6,17 @@ IF SOMEBODDY USING THIS CODE WITHOUT CREDITS I CAN GIVE THEM COPYRIGHT STRIKES
 ## SUPPORT SERVER 
 https://discord.gg/8hZkZAbpnn
 
-
+## Categories 📑
+- [x] Music
+- [x] Fun
+- [x] Giveaway
+- [x] Buttons
+- [x] NSFW
+- [x] Utility
+- [X] Roleplay
+- [X] Roleplay (NSFW)
+- [X] Role-management
+- [X] Chat-management
 ## FEATURES
 
  MODERATION
