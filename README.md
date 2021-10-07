@@ -29,3 +29,6 @@ Royal Bot has a lot of features, with **8 main categories**:
 *   👑 **Owner**: `eval`, `reload`
 ## DEVELOPER
 JohnDavid, Berry, lollipop
+## BOTS
+Thanks for Using My Bot 1.7m User 800+ Server
+
