@@ -1,6 +1,5 @@
 # ROYAL BOT
-[![Discord Bots](https://top.gg/api/widget/787260574551375903.svg)(https://top.gg/bot/787260574551375903)
-
+[![Discord Bots](https://top.gg/api/widget/787260574551375903.svg)
 IF SOMEBODDY USING THIS CODE WITHOUT CREDITS I CAN GIVE THEM COPYRIGHT STRIKES 
 
 
