@@ -19,3 +19,5 @@ https://discord.gg/8hZkZAbpnn
  NSFW COMMANDS
  CHAT-MANAGEMENT COMMANDS
  ROLE-MANAGEMENT COMMANDS
+## DEVELOPER
+JohnDavid, Berry, lollipop
