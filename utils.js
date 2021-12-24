@@ -25,8 +25,8 @@ exports.formatNumber = (number) => {
 
 const randomFooter = () => {
     return exports.randomSelection([
-        'ROYAL BOT BY JOHNDAVID',
-        'ROYAL BOT BY JOHNDAVID',
+        'ExtaBOT BY ETZYEWW',
+        'ExtaBOT BY ETZYEWW',
     ]);
 };
 
